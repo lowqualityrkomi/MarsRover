@@ -42,3 +42,5 @@ npm install
 # start the server in dev mode
 npm run dev
 ```
+After the server started, you can see the link that you have to open to see the project (by default NuxtJS try to open the projects on port 3000).
+<a href="https://localhost:3000">https://localhost:3000</a>
